@@ -1,0 +1,9 @@
+# local environments
+env/*
+
+# npm module
+gpt-bot/node_modules/*
+
+#local data
+data/*
+storage/*
